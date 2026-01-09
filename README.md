@@ -16,3 +16,14 @@ Projet web développé en PHP et MySQL permettant la gestion :
 1. Copier le projet dans le dossier htdocs
 2. Importer la base de données depuis phpMyAdmin (fichier database/gestion_magasin.sql)
 3. Lancer le projet via http://localhost/gestion_magasin
+
+ ## Compte de démonstration (Administrateur)
+
+Pour tester l’application, un compte administrateur est disponible :
+
+- Nom d’utilisateur : **admin**
+- Mot de passe : **12345678**
+
+⚠️ Ces identifiants sont fournis uniquement à des fins de démonstration pédagogique.
+
+
